@@ -1,4 +1,4 @@
-This is a simple TicTacToe game that i made just for fun! It runs on Matlab. 
+This is a simple TicTacToe game that i made just for fun!! It runs on Matlab. 
 
 Instrucitons :
 
