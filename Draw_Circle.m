@@ -2,7 +2,7 @@
 %  Project       : Simple Tic Tac Toe                                     %
 %  File          : Draw_Circle.m                                          %
 %  Description   : Function that draw the circle                          %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 function [imagenew] = Draw_Circle(image,centerx,centery,r)

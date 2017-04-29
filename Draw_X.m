@@ -2,7 +2,7 @@
 %  Project       : Simple Tic Tac Toe                                     %
 %  File          : Draw_X.m                                               %
 %  Description   : Function that draw the X                               %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 function [ placex ] = Draw_X(centerx,centery,image,k)

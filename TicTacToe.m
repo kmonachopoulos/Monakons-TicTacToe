@@ -2,11 +2,11 @@
 %  Project       : Simple Tic Tac Toe                                     %
 %  File          : TicTacToe.m                                            %
 %  Description   : Simple Tic Tac Toe Game                                %
-%  Author        : Monahopoulos Konstantinos                              %
+%  Author        : Monachopoulos Konstantinos                              %
 %-------------------------------------------------------------------------%
 
 clear;clc;close all;
-fprintf('Welcome to the TIC TAC TOE game powered by Monahopoulos Konstantinos\n\n')
+fprintf('Welcome to the TIC TAC TOE game powered by Monachopoulos Konstantinos\n\n')
 fprintf('Instructions : To set the coordinates for the move you want to play \n')
 fprintf('just write on command prompt 11 (raw 1,column 1), 13 (raw 1,column 3) ... e.t.c\n\n')
 name1=input('Player one enter your name :\n','s');
